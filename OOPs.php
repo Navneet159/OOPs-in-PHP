@@ -4,6 +4,15 @@
 
 // OOP = Object-Oriented Programming
 
+// oops concepts are as follows (will be discussed later in the course)
+// * OBJECT
+// * CLASS
+// * INHERTIANCE
+// * POLYMORPHISIM
+// * ENCAPSULATION
+// * ABSTRACTION
+
+
 // PROGAMMING TYPES = 2
 // 1) Procedural programming   2)object-oriented programming
 
